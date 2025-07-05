@@ -1,0 +1,6 @@
+*.rbxl.autosave
+*.rbxlx.autosave
+*.rbxl~
+*.rbxlx~
+*.log
+*.tmp
