@@ -1,0 +1,43 @@
+{
+  "name": "VoiceChatProject",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Shared": {
+        "$path": "src/ReplicatedStorage/Shared"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": {
+        "$path": "src/ServerScriptService/Server"
+      }
+    },
+    "StarterPlayer": {
+    "$className": "StarterPlayer",
+    "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "EventTimerDisplay": {
+            "$path": "src/StarterPlayerScripts/EventTimerDisplay"
+        },
+        "TestPlayerLevel": {
+            "$path": "src/StarterPlayerScripts/TestPlayerLevel"
+        }
+    }
+    }
+    ,
+    "StarterGui": {
+      "$className": "StarterGui",
+      "GUI": {
+        "$path": "src/StarterGui/GUI"
+      }
+    },
+    "SoundService": {
+      "$className": "SoundService",
+      "Sounds": {
+        "$path": "src/SoundService/Sounds"
+      }
+    }
+  }
+}

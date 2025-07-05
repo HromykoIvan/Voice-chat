@@ -1,6 +1,9 @@
-*.rbxl.autosave
-*.rbxlx.autosave
-*.rbxl~
-*.rbxlx~
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
 *.log
 *.tmp
+*.bak
+*.swp
+.vscode/
